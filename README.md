@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-  <img src="form_sample.png" width="350" title="hover text">
+  <img src="form_sample.png" title="Form image sample">
 </p>
 
 <p>Espero que tenham gostado. Até logo 👋</p>
