@@ -11,8 +11,6 @@
 <p>Aqui está o resultado final! 😄</p>
 
 <br>
-<p align="center">
-  <img src="form_sample.png" width="350" title="hover text">
-</p>
+![Screenshot](form_example.png)
 
 <p>Espero que tenham gostado. Até logo 👋</p>
